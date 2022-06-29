@@ -4,7 +4,7 @@
 #
 Name     : R-invgamma
 Version  : 1.1
-Release  : 26
+Release  : 27
 URL      : https://cran.r-project.org/src/contrib/invgamma_1.1.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/invgamma_1.1.tar.gz
 Summary  : The Inverse Gamma Distribution
